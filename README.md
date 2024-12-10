@@ -1,18 +1,75 @@
-## Hi there 👋
+# Salesforce Developer Portfolio
 
-<h1 align="center">Hi 👋, I'm Akshay Shikar</h1>
-<h3 align="center">A passionate salesforce developer from India</h3>
+Welcome to my Salesforce Developer Portfolio! 🚀
 
-- 🌱 I’m currently learning **DSA**
+I am a Salesforce-certified developer with experience building scalable and efficient solutions on the Salesforce platform. Below is a collection of my projects, skills, and technical expertise that I have gained while working with Salesforce technologies.
 
-- 💬 Ask me about **Apex,Lightning web component,Aura**
+## 🛠 Skills & Expertise
 
-- 📫 How to reach me **akshayshirkardev@gmail.com**
+### **Salesforce Development Skills**
+- **Apex**: Writing custom Apex code to implement business logic, triggers, batch jobs, and scheduled jobs.
+- **Visualforce**: Building custom user interfaces for Salesforce applications using Visualforce pages.
+- **Lightning Web Components (LWC)**: Developing modern, responsive user interfaces using LWC and integrating with Salesforce data.
+- **Salesforce APIs**: Working with REST and SOAP APIs for integration with third-party applications and services.
+- **Salesforce DX**: Using Salesforce DX for source-driven development, scratch orgs, and version control integration with Git.
+- **SOQL & SOSL**: Proficient in writing complex Salesforce Object Query Language (SOQL) and Salesforce Object Search Language (SOSL) queries.
+- **Flow & Process Builder**: Automating business processes with Salesforce Flow, Process Builder, and Workflow Rules.
+- **Data Management**: Data migration, manipulation, and management using tools like Data Loader, Data Import Wizard, and Workbench.
+  
+### **Salesforce Platforms & Tools**
+- **Salesforce Lightning Experience**: Building components, pages, and applications using Salesforce Lightning Experience.
+- **Salesforce AppExchange**: Leveraging third-party applications from the AppExchange to extend Salesforce functionality.
+- **Salesforce Einstein**: Implementing AI and machine learning capabilities for predictive analytics and smart features.
+- **Salesforce Communities**: Setting up and customizing Salesforce Community Portals for external users.
+- **Salesforce Pardot**: Integration and automation with Salesforce marketing tools like Pardot.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshay shirkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay shirkar" height="30" width="40" /></a>
-</p>
+### **Version Control & Deployment**
+- **Git & GitHub**: Source control and collaboration using Git, GitHub, and branching strategies.
+- **Jenkins & CI/CD**: Continuous integration and deployment practices to streamline release management.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### **Other Technologies**
+- **HTML, CSS, JavaScript**: Basic web technologies for custom Visualforce pages and LWC.
+- **Node.js & Express**: For building server-side applications and handling integrations.
+- **SQL & NoSQL Databases**: Experience working with relational and non-relational databases.
+- **GitLab CI/CD**: Integration with GitLab for automated testing and deployment.
+
+## 📂 Notable Projects
+
+### 1. **Salesforce Opportunity Management Automation**
+   - **Description**: Developed an automated workflow for opportunity management, which includes lead scoring, auto-assignment of opportunities, and email notifications to stakeholders.
+   - **Technologies Used**: Apex, Lightning Web Components (LWC), Process Builder, Salesforce Flow.
+   - **GitHub Link**: [Opportunity Management Automation](https://github.com/yourusername/opportunity-management-automation)
+
+### 2. **Salesforce & External System Integration**
+   - **Description**: Integrated Salesforce with an external CRM using REST APIs for real-time data synchronization and automated reporting.
+   - **Technologies Used**: Apex, REST API, Postman (for testing), Salesforce Connect.
+   - **GitHub Link**: [Salesforce Integration Project](https://github.com/yourusername/salesforce-integration)
+
+### 3. **Custom Lightning Web Component (LWC)**
+   - **Description**: Built a custom LWC to allow users to select multiple records and take bulk actions in Salesforce Lightning Experience.
+   - **Technologies Used**: Lightning Web Components, Apex, SOQL, Lightning Data Service.
+   - **GitHub Link**: [Bulk Action LWC](https://github.com/yourusername/bulk-action-lwc)
+
+### 4. **Salesforce Data Migration Tool**
+   - **Description**: Developed a custom tool for migrating data between different Salesforce orgs using Data Loader and Apex.
+   - **Technologies Used**: Apex, Data Loader, SOQL, and Salesforce Metadata API.
+   - **GitHub Link**: [Data Migration Tool](https://github.com/yourusername/data-migration-tool)
+
+## 🔑 Certifications
+- Salesforce Certified Platform Developer I
+- Salesforce Certified Platform Developer II
+- Salesforce Certified Administrator
+- Salesforce Certified Advanced Administrator
+- Salesforce Certified Application Architect
+
+## 🌍 Contact
+
+Feel free to reach out if you'd like to collaborate, discuss Salesforce development, or learn more about my work!
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 Website/Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+## 📜 License
+
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
