@@ -1,7 +1,5 @@
 # Salesforce Developer
 
-Welcome to my Salesforce Developer! 🚀
-
 I am a Salesforce-certified developer with experience building scalable and efficient solutions on the Salesforce platform. Below is a collection of my projects, skills, and technical expertise that I have gained while working with Salesforce technologies.
 
 ## 🛠 Skills & Expertise
