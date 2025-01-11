@@ -25,13 +25,6 @@ I am a Salesforce-certified developer with experience building scalable and effi
 
 ### **Version Control & Deployment**
 - **Git & GitHub**: Source control and collaboration using Git, GitHub, and branching strategies.
-- **Jenkins & CI/CD**: Continuous integration and deployment practices to streamline release management.
-
-### **Other Technologies**
-- **HTML, CSS, JavaScript**: Basic web technologies for custom Visualforce pages and LWC.
-- **Node.js & Express**: For building server-side applications and handling integrations.
-- **SQL & NoSQL Databases**: Experience working with relational and non-relational databases.
-- **GitLab CI/CD**: Integration with GitLab for automated testing and deployment.
 
 ## 📂 Notable Projects
 
@@ -57,19 +50,15 @@ I am a Salesforce-certified developer with experience building scalable and effi
 
 ## 🔑 Certifications
 - Salesforce Certified Platform Developer I
-- Salesforce Certified Platform Developer II
 - Salesforce Certified Administrator
-- Salesforce Certified Advanced Administrator
-- Salesforce Certified Application Architect
+- Sales Cloud Consultant
 
 ## 🌍 Contact
 
 Feel free to reach out if you'd like to collaborate, discuss Salesforce development, or learn more about my work!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 💼 Website/Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
-## 📜 License
+- 📧 Email: akshayshirkardev@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/akshay-shirkar-20a25a193/
+- 💼 Website/Portfolio: Inprogress
 
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
